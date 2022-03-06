@@ -89,18 +89,21 @@ section {
     background-size: cover;
     background-position: bottom;
     display: flex;
-    justify-content: right;
     flex-wrap: wrap;
-    align-items: flex-start;
     background-position: 80%;
     height: 200px;
+    position: relative;
 }
 
 .hero h2 {
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
     color: #fff;
-    font-size: 18px;
+    font-size: 24px;
     line-height: 1.2;
-    background-color: slateblue;
+    background-color: var(--tertiary-color);
+    padding: 10px 30px 10px 10px;
 }
 
 /* ------ABOUT ME------ */

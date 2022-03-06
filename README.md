@@ -21,3 +21,29 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
+---
+
+# My Portfolio
+
+## Purpose
+A portfolio to introduce myself and provide previous work and experience along with contact information. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://rosemariehalim.github.io/02-challenge/
+
+---
+
+## Challenge 2.0
+
+* planned out code and wireframing
+* added core html and css
+* personalized base design to make unique
+* made links usable
+* made UI scroll to section when clicking header links
+* applied css to create hover effects with portfolio section
+* added media queries to make site responsive

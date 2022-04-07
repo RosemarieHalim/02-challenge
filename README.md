@@ -46,4 +46,8 @@ https://rosemariehalim.github.io/02-challenge/
 * made links usable
 * made UI scroll to section when clicking header links
 * applied css to create hover effects with portfolio section
+<<<<<<< HEAD
 * added media queries to make site responsive
+=======
+* added media queries to make site responsive
+>>>>>>> e84598273c425321676f67dec5b43d3f508c9c7b
